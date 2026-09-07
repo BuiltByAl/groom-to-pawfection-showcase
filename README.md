@@ -10,8 +10,6 @@ The project combines a modern small-business website with a custom digital clien
 
 **https://groomtopawfection.co.uk**
 
----
-
 ## Project Screenshots
 
 ### Desktop Homepage
@@ -29,6 +27,8 @@ The project combines a modern small-business website with a custom digital clien
 ### Responsive Mobile Homepage
 
 <img src="groom-mobile.png" alt="Groom to Pawfection mobile homepage" width="360">
+
+---
 
 ## The Project
 
